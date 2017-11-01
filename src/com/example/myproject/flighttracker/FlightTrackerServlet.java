@@ -32,7 +32,7 @@ public class FlightTrackerServlet {
      */
 
 
-      private static final String APPLICATION_NAME = "MyFlightApplication";
+      private static final String APPLICATION_NAME = "MyFlightApplications";
 
       private static final String API_KEY = "AIzaSyDnBCdsmTnrL5XFrO2TjJyvFioswjakNYU";
 
