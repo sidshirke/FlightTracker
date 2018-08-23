@@ -36,7 +36,7 @@ public class FlightTrackerServlet {
 
       private static final String API_KEY = "AIzaSyDnBCdsmTnrL5XFrO2TjJyvFioswjakNYU";
 
-      /** Global instance of the HTTP transport. */
+      /**GGGGlobal instance of the HTTP transport. */
       private static HttpTransport httpTransport;
 
       /** Global instance of the JSON factory. */
