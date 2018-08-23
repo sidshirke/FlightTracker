@@ -39,7 +39,7 @@ public class FlightTrackerServlet {
       /**GGGGlobal instance of the HTTP transport. */
       private static HttpTransport httpTransport;
 
-      /** Global instance of the JSON factory. */
+      /** SID Global instance of the JSON factory. */
       private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
 
 
