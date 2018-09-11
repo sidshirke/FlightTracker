@@ -3,7 +3,7 @@ package com.example.myproject.flighttracker;
 import java.io.IOException;
 import java.util.*;
 
-import javax.swing.text.View;;;;;;;;;;;;;;
+import javax.swing.text.View;;;;;;;;
 
 import com.google.api.client.auth.oauth2.Credential;
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
